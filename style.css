@@ -1,0 +1,98 @@
+
+    /*base*/
+    html {
+        background-color: rgb(138, 255, 195);
+    }
+
+    .view {
+        width: 14em;
+        margin-top: 2em;
+        margin-left: 1.3em;
+        font-size: 1em;
+        padding: 0.6em;
+        border: none;
+        border-radius: 15px;
+    }
+
+    table {
+        padding: 2em;
+    }
+
+    .button {
+        width: 2em;
+        height: 2em;
+        cursor: pointer;
+        font-size: 20px;
+        line-height: 0.2;
+        border-radius: 8px;
+        border:none;
+        margin: 0.3em;
+        outline-style: none;
+        background: rgb(226, 221, 221);  
+        transition: background-color 0.4s ease-out;
+        color: grey;
+    }
+
+    /*begin*/
+    .happy {
+        background: rgb(255, 255, 160);
+    }  
+
+    .equal {
+        background: rgb(21, 207, 207);
+    }
+
+    .clean {
+        background: rgb(250, 150, 150);
+    }
+
+    .spc {
+        background: #ACAFB3;
+    }
+    
+
+    /*effects - begin*/
+    .nor:hover {
+        background: rgba(201, 235, 235, 0.671);   
+    }
+
+    .spc:hover {
+        background: rgba(117, 117, 117, 0.774);   
+    }
+
+    .clean:hover {
+        background: rgba(253, 98, 98, 0.904);   
+    }
+
+    .equal:hover {
+        background: rgba(14, 147, 170, 0.89);   
+    }
+
+    .happy:hover {
+        background: rgb(255, 244, 90);   
+    }
+
+    .main {
+        background-color: rgb(112, 160, 161);
+        width: 18em;
+        border: rgba(0, 0, 0, 0.281) solid 5px;
+        border-radius: 15px;
+    }  
+ 
+    .zero {
+        width: 92%;
+    }
+  
+  
+
+    /*after*/
+    .locked {
+        background: #747676;
+    }
+
+    /*after - effects*/
+    .locked:hover {
+        background: #747676;
+        /*cursor: default;*/
+    }
+
