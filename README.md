@@ -14,5 +14,5 @@ See the result: https://codepen.io/AmandaCleto/pen/eYmEzBo
 <br>
 
 
-## LICENSE
+## License
 This project is licensed under the [MIT] license - see the LICENSE.md file for more details.
