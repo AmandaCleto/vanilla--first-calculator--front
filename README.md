@@ -10,7 +10,7 @@
 A simple calculator that is intended to work efficiently and perhaps fun.
 
 ## 🌐 Links:
-See the result: https://codepen.io/AmandaCleto/pen/eYmEzBo
+See the result: [<ins>Codepen: First-Calculator</ins>](https://codepen.io/AmandaCleto/pen/eYmEzBo).
 
 
 <br>
